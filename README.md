@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John Hudson (@Hudson-John)
-- 📓Enrolled in the University of Conneticut class of 2025
+- 📓 University of Conneticut class of 2025
 - 📧 Email (johnjasonhudson@gmail.com)
 
 <!---
